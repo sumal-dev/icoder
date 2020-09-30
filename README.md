@@ -1,2 +1,2 @@
-# icalculator a basic calcular
+# icalculator a basic calculator
 This shows how you can make a simple calculator using python to sum two numbers
